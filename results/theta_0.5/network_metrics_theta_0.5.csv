@@ -1,0 +1,2 @@
+theta,num_nodes,num_edges,density,avg_degree,avg_clustering,assortativity,connected_components
+0.5,95,344,0.07704367301231803,7.242105263157895,0.4045610775812365,0.21003460153850056,46

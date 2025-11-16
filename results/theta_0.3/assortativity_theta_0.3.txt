@@ -1,0 +1,1 @@
+Degree assortativity (theta = 0.3): 0.15537398653853293
